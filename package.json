@@ -1,0 +1,12 @@
+{
+  "name": "lab-task-8",
+  "version": "1.0.0",
+  "main": "testScript.js",
+  "scripts": {
+    "test": "testScript.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

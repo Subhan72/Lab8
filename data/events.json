@@ -1,0 +1,47 @@
+[
+  {
+    "username": "Ali",
+    "name": "Meeting",
+    "description": "Project discussion",
+    "date": "2025-03-20",
+    "time": "10:00",
+    "category": "Meeting",
+    "reminder": "09:30"
+  },
+  {
+    "username": "Ali",
+    "name": "Birthday",
+    "description": "Ali's birthday party",
+    "date": "2025-03-25",
+    "time": "18:00",
+    "category": "Birthday",
+    "reminder": null
+  },
+  {
+    "username": "Ali",
+    "name": "Doctor Appointment",
+    "description": "Routine checkup",
+    "date": "2025-03-22",
+    "time": "15:00",
+    "category": "Appointment",
+    "reminder": "14:30"
+  },
+  {
+    "username": "Ahmed",
+    "name": "Conference",
+    "description": "Tech conference",
+    "date": "2025-04-10",
+    "time": "09:00",
+    "category": "Meeting",
+    "reminder": "08:30"
+  },
+  {
+    "username": "Ahmed",
+    "name": "Gym",
+    "description": "Workout session",
+    "date": "2025-04-05",
+    "time": "07:00",
+    "category": "Fitness",
+    "reminder": "06:30"
+  }
+]
